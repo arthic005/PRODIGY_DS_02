@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook for **Task-02**, where we perform an
 ## Notebook Contents
 
 1. **Data Loading**
-   - Load the Titanic dataset (`train.csv`) using Pandas.
+   - Load the Train dataset (`train.csv`) using Pandas.
    - Display the first few rows for an initial overview.
 
 2. **Data Cleaning**
